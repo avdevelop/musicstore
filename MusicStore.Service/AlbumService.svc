@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MusicStore.Service.AlbumService" CodeBehind="AlbumService.svc.cs" Factory="Ninject.Extensions.Wcf.NinjectServiceHostFactory" %>
