@@ -1,4 +1,0 @@
-C:\Users\CHRISTV\Desktop\MusicStore\MusicStore.Models\bin\Debug\MusicStore.Models.dll
-C:\Users\CHRISTV\Desktop\MusicStore\MusicStore.Models\bin\Debug\MusicStore.Models.pdb
-C:\Users\CHRISTV\Desktop\MusicStore\MusicStore.Models\obj\Debug\MusicStore.Models.dll
-C:\Users\CHRISTV\Desktop\MusicStore\MusicStore.Models\obj\Debug\MusicStore.Models.pdb
